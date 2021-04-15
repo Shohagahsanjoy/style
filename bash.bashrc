@@ -1,9 +1,9 @@
 	command_not_found_handle() {
         /data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
 }
-PS1='\[\033[1;96m\]┌─[\[\033[1;96m\]\T\[\033[1;96m\]]─────\033[1;97m[SHOHAG-AHSAN-JOY]\033[1;96m───[\#]\n|\n\033[1;96m└─[\[\033[1;96m\]\033[1;96m\W\[\033[1;96m\]]────►>>>\033[1;97m'
+PS1='\[\033[1;93m\]┌─[\[\033[1;94m\]\T\[\033[1;95m\]]─────\033[1;97m[SHOHAG-AHSAN-JOY]\033[1;96m───[\#]\n|\n\033[1;98m└─[\[\033[1;99m\]\033[1;90m\W\[\033[1;96m\]]────►>>>\033[1;97m'
 clear
-/$HOME/Style/termux.mp3
+/$HOME/Style/termux2.mp3
 clear
 echo "------------------------------------------------------------------------" | lolcat
 echo -e "\e[1;92m "
