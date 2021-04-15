@@ -10,28 +10,28 @@
 $ apt-get update -y
 ```
 ```
-$ apt-get upgrade -y
+apt-get upgrade -y
 ```
 ```
-$ pkg install mpv -y
+pkg install mpv -y
 ```
 ```
-$ git clone https://github.com/Shohagahsanjoy/Style.git
+git clone https://github.com/Shohagahsanjoy/Style.git
 ```
 ```
-$ cd style
+cd Style
 ```
 ```
-$ chmod +x *
+chmod +x *
 ```
 ```
-$ sh install.sh
+sh install.sh
 ```
 Now Type exit & restart Termux
 
 ### Update Tool
 ```
-$ rm -rf 'style' && pkg install mpv -y && git clone https://github.com/OnlineHacKing/Voice-Welcome.git && cd Voice-Welcome && chmod +x * && sh install.sh && exit
+$ rm -rf 'style' && pkg install mpv -y && git clone https://github.com/Shohagahsanjoy/Style.git && cd Style && chmod +x * && sh install.sh && exit
 ```
 
 # ■□■□■□■□■□■□ Warning □■□■□■□■□■□■
