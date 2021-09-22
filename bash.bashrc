@@ -1,7 +1,7 @@
 	command_not_found_handle() {
         /data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
 }
-PS1='\[\033[1;92m\]┌─[\[\033[1;93m\]\T\[\033[1;95m\]]─────\033[1;96m[Annynomus]\033[1;92m───[\#]\n|\n\033[1;92m└─[\[\033[1;99m\]\033[1;92m\W\[\033[1;96m\]]────►>>>\033[1;97m'
+PS1='\[\033[1;92m\]┌─[\[\033[1;93m\]\T\[\033[1;95m\]]─────\033[1;96m[LUCIFER-JUBUツ]\033[1;92m───[\#]\n|\n\033[1;92m└─[\[\033[1;99m\]\033[1;92m\W\[\033[1;96m\]]────►>>>\033[1;97m'
 clear
 /sdcard/Dawnload/termux2.mp3
 clear
